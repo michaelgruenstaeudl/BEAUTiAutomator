@@ -27,7 +27,7 @@ from termcolor import colored
 ####################
 
 # Path to script directory
-psd = "/home/michael/git/ScienceScripts/"
+psd = "/home/michael/git/BEAUTiAutomator/"
 
 ###########
 # CLASSES #
